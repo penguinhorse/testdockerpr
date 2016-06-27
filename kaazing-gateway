@@ -1,0 +1,4 @@
+# maintainer: Kaazing Docker Maintainers <https://github.com/kaazing/gateway.docker/issues>
+
+latest: git://github.com/kaazing/gateway.docker@5ff4c04902f7a514533c9005476fb864fcfdc8ff
+5.1.0: git://github.com/kaazing/gateway.docker@5ff4c04902f7a514533c9005476fb864fcfdc8ff
